@@ -1,0 +1,6 @@
+{
+  "name": "Register",
+  "description": "Mobile-native POS retail transaction operating system, payments, inventory, and sales analytics terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
